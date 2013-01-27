@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+These are the values that you can use to define a theme file for GYF.
+Note that more preferences will likely be made available later:
+
+            key                 | default|            description
+................................+.......+..........................................
+   (soon)
+-->
+<resources>
+<string name="preferences_ui_list_bgnd_color">#FF0000</string>
+<string name="preferences_ui_list_text_color">#00FF00</string>
+<string name="preferences_ui_list_alpha">0</string>
+
+<string name="preferences_ui_ribbon_bgnd_color">#00FFFF</string>
+<string name="preferences_ui_ribbon_text_color">#66FF77</string>
+<string name="preferences_ui_ribbon_alpha">0</string>
+</resources>

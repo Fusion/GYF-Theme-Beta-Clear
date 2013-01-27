@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.voilaweb.mobile.gyftheme.betatest"
+          android:versionCode="1"
+          android:versionName="1.0b1">
+
+    <uses-sdk
+            android:minSdkVersion="8"
+            android:targetSdkVersion="17" />
+
+    <application android:icon="@drawable/icon" android:label="CromeThemeClear">
+        <activity android:name=".Theme"
+                  android:label="@string/theme_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.voilaweb.mobile.gyf.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
