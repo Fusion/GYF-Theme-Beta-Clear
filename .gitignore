@@ -2,3 +2,7 @@ bin/*
 Tmp/*
 gen/*
 out/*
+libs/*
+.idea/*
+.*
+.DS_Store

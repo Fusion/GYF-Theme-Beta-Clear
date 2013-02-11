@@ -9,12 +9,15 @@ Note that more preferences will likely be made available later:
 -->
 <resources>
 <string name="preferences_ui_list_bgnd_color">#FF0000</string>
-<string name="preferences_ui_list_text_color">#00FF00</string>
+<string name="preferences_ui_list_text_color">#EEEEEE</string>
 <string name="preferences_ui_list_alpha">0</string>
+
+<string name="preferences_ui_headers_separator_color">#FFFFE0</string>
+<string name="preferences_ui_headers_text_color">#800517</string>
 
 <string name="preferences_ui_item_selected_bgnd_color">#333333</string>
 
 <string name="preferences_ui_ribbon_bgnd_color">#00FFFF</string>
-<string name="preferences_ui_ribbon_text_color">#66FF77</string>
+<string name="preferences_ui_ribbon_text_color">#EEEEEE</string>
 <string name="preferences_ui_ribbon_alpha">0</string>
 </resources>
